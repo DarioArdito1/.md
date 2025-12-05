@@ -10,7 +10,6 @@ Der **DSS Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das
 Alle Daten werden lokal gespeichert und beim Programmstart wieder eingelesen. Das Programm ist ideal für Personen, die ihre Kontakte übersichtlich und schnell zugänglich verwalten möchten.
 
 ---
-
 ## 📌 Motivation
 
 Kommunikation ist ein zentraler Bestandteil des modernen Arbeits- und Studienalltags. Besonders zum Start eines neuen Lebensabschnitts, wie einem Studium, lernt man viele neue Menschen kennen. Ein digitales Kontaktbuch hilft dabei, diese Kontakte systematisch zu erfassen, zu behalten und langfristig zu pflegen.
@@ -18,7 +17,6 @@ Kommunikation ist ein zentraler Bestandteil des modernen Arbeits- und Studienall
 Der DSS Contact Manager unterstützt Benutzer dabei, schnell und unkompliziert auf ihre wichtigsten Kontakte zuzugreifen – jederzeit und ohne externe Plattform.
 
 ---
-
 ## 🎯 Zielgruppe
 
 Die Anwendung richtet sich an alle Personen, die:
@@ -30,7 +28,6 @@ Die Anwendung richtet sich an alle Personen, die:
 ---
 
 ## 📂 Hauptfunktionen
-
 Der DSS Contact Manager bietet folgende Funktionen:
 
 1. **Kontakt hinzufügen**  
@@ -43,7 +40,6 @@ Der DSS Contact Manager bietet folgende Funktionen:
 Alle Funktionen sind über ein benutzerfreundliches Menü erreichbar.
 
 ---
-
 ## 🧭 Programmablauf
 ```text
 Programmstart
@@ -63,7 +59,6 @@ Beenden → Daten speichern → Programmende
 ---
 
 ## 🧑‍💻 Beispiel: Menüführung (Nutzer-Ansicht)
-
 ```text
 === DSS CONTACT MANAGER ===
 
@@ -74,13 +69,12 @@ Beenden → Daten speichern → Programmende
 5. Kontakt suchen
 6. Programm beenden
 
-Bitte wählen Sie eine Option: 
+Bitte wählen Sie eine Option:
 ```
----
+
 
 ## 📝 Beispielcode: Kontakt hinzufügen
 ```text
-
 def add_contact(contacts):
     print("\n--- Neuen Kontakt hinzufügen ---")
     name = input("Name: ").strip()
@@ -113,7 +107,6 @@ def add_contact(contacts):
 ----
 
 ## 🧪 Datenvalidierung
-
 Das Programm überprüft Benutzereingaben systematisch:
 
 Name darf nicht leer sein
