@@ -1,4 +1,4 @@
-# DSS Contact Manager
+# DSS-Contact Manager
 
 Der **DSS Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das es Nutzern ermöglicht, Personen zu erfassen, zu bearbeiten, zu suchen und zu löschen. Zu jedem Kontakt können folgende Informationen gespeichert werden:
 
@@ -28,7 +28,7 @@ Die Anwendung richtet sich an alle Personen, die:
 ---
 
 ## 📂 Hauptfunktionen
-Der DSS Contact Manager bietet folgende Funktionen:
+Der DSS-Contact Manager bietet folgende Funktionen:
 
 1. **Kontakt hinzufügen**  
 2. **Alle Kontakte anzeigen**  
@@ -43,24 +43,24 @@ Alle Funktionen sind über ein benutzerfreundliches Menü erreichbar.
 ## 🧭 Programmablauf
 ```text
 Programmstart
-↓
+    ↓
 HAUPTMENÜ (Optionen 1–6)
-↓
+    ↓
 Benutzerwahl
-↓
+    ↓
 Ausführen der gewählten Funktion
-↓
+    ↓
 Anzeige / Bestätigung
-↓
+    ↓
 Zurück zum HAUPTMENÜ
-↓
+    ↓
 Beenden → Daten speichern → Programmende
 ```
 ---
 
 ## 🧑‍💻 Beispiel: Menüführung (Nutzer-Ansicht)
 ```text
-=== DSS CONTACT MANAGER ===
+=== DSS-CONTACT MANAGER ===
 
 1. Kontakt hinzufügen
 2. Alle Kontakte anzeigen
@@ -122,7 +122,6 @@ Dies erhöht die Stabilität der Anwendung und verhindert fehlerhafte Datensätz
 ----
 
 ## ⚙️ Installation & Start
-
 Voraussetzungen:
 - Python 3.x installiert
 - Projektdateien lokal gespeichert
