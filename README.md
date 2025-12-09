@@ -1,4 +1,4 @@
-# DSS-Contact Manager 
+# <img width="301" height="100" alt="image" src="https://github.com/user-attachments/assets/3ffb1569-1a22-49db-b7fa-00e9a2a5158e" />
 
 Der **DSS-Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das es Nutzern ermöglicht, interaktiv persönliche Kontaktdaten zu erfassen, zu bearbeiten, zu suchen und zu löschen. Die Benutzereingaben werden sinngemäss validiert und anschliessen auf Befehl des Nutzers gespeichert. 
 Zu jedem Kontakt können folgende Informationen gespeichert werden:
@@ -36,16 +36,12 @@ Starten des Programms:
 ```text
 python main.py  oder  python DSS_COntact_Manager.py
 ```
+---
+## 🏛️ Die Architektur
 
-Falls die Datei anders heisst, entsprechend anpassen.
+Im folgenden Bild werden die einzelnen Module des Kontaktbuches dargestellt und dessen Kommunikation untereinander:
 
-🖼️ Screenshots (Platzhalter)
-
-Füge hier später eure eigenen Screenshots ein:
-
-Hauptmenü
-
-Kontakte anzeigen
+<img width="548" height="451" alt="image" src="https://github.com/user-attachments/assets/9c759925-a400-4170-92db-3e42dc9efb7b" />
 
 ---
 ## 📂 Hauptfunktionen
@@ -79,7 +75,8 @@ Beenden → Daten speichern → Programmende
 ```
 ---
 
-## 🧑‍💻 Beispiel: Menüführung (Nutzer-Ansicht)
+## Beispiele: 
+### 🧑‍💻 Menüführung (Nutzer-Ansicht)
 ```text
 === DSS-CONTACT MANAGER ===
 
@@ -90,7 +87,7 @@ Beenden → Daten speichern → Programmende
 5. Kontakt suchen
 6. Programm beenden
 
-Bitte wählen Sie eine Option:
+Bitte wählen Sie eine Option:__
 ```
 
 
@@ -141,35 +138,11 @@ Ungültige Menüeingaben führen zu klaren Fehlermeldungen und erneuter Eingabea
 Dies erhöht die Stabilität der Anwendung und verhindert fehlerhafte Datensätze.
 
 ----
-
-## ⚙️ Installation & Start
-Voraussetzungen:
-- Python 3.x installiert
-- Projektdateien lokal gespeichert
-
-Starten des Programms:
-```text
-python main.py
-```
-
-Falls die Datei anders heisst, entsprechend anpassen.
-
-🖼️ Screenshots (Platzhalter)
-
-Füge hier später eure eigenen Screenshots ein:
-
-Hauptmenü
-
-Kontakte anzeigen
-
-----
 ## 🚧 Herausforderungen während der Entwicklung
 
-Da dies ein Einsteigerprojekt ist, lagen die grössten Schwierigkeiten in:
-der Eingabevalidierung dem Umgang mit Schleifen und Booleschen Bedingungen
-dem strukturierten Datei-Einlesen und -Schreibe Menüführung mit wiederholter Benutzerinteraktion
+Da es sich um ein Einsteigerprojekt handelt, traten verschiedene Herausforderungen auf. Besonders anspruchsvoll waren die Eingabevalidierung sowie der Umgang mit Schleifen und booleschen Bedingungen. Weitere Schwierigkeiten ergaben sich beim strukturierten Datei-Einlesen und Schreiben sowie bei der Menüführung mit wiederholter Benutzerinteraktion.
 
-Durch konsequente Anwendung der Unterrichtsmaterialien konnten diese Herausforderungen Schritt für Schritt gelöst werden.
+Dank anwenderfreundlichen Skrips, der Unterstützung meiner Klassenkammeraden und KI konnten Fragen und Unklarheiten zu einem grossen Teil geklärt werden. Dadurch liessen sich die Herausforderungen Schritt für Schritt erfolgreich bewältigen. Die letzten kritische Punkte wurden beim Coaching mit dem Dozent geklärt und 
 
 ----
 ## 👥 Projektteam-Beteiligte
