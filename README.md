@@ -95,7 +95,7 @@ Bitte wählen Sie eine Option:__
 ```
 
 
-## 📝 Beispielcode: Kontakt hinzufügen
+## 📝 Code: Kontakt hinzufügen (Administrators-Ansicht)
 ```text
 def kontakt_hinzufügen():
     print("\n--- Neuen Kontakt hinzufügen ---")
