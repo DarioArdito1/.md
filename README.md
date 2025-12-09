@@ -1,6 +1,6 @@
-# DSS-Contact Manager
+# DSS-Contact Manager (Kontaktbuch)
 
-Der **DSS Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das es Nutzern ermöglicht, Personen zu erfassen, zu bearbeiten, zu suchen und zu löschen. Zu jedem Kontakt können folgende Informationen gespeichert werden:
+Der **DSS-Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das es Nutzern ermöglicht, persönliche Kontaktdaten zu erfassen, zu bearbeiten, zu suchen und zu löschen. Zu jedem Kontakt können folgende Informationen gespeichert werden:
 
 - Name
 - Telefonnummer
