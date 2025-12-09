@@ -1,4 +1,4 @@
-# <img width="301" height="100" alt="image" src="https://github.com/user-attachments/assets/3ffb1569-1a22-49db-b7fa-00e9a2a5158e" />
+# <img width="601" height="199" alt="image" src="https://github.com/user-attachments/assets/c36131a6-7c13-413c-8a7f-af3c848d03e8" />
 
 Der **DSS-Contact Manager** ist ein einfaches, menügesteuertes Kontaktbuch, das es Nutzern ermöglicht, interaktiv persönliche Kontaktdaten zu erfassen, zu bearbeiten, zu suchen und zu löschen. Die Benutzereingaben werden sinngemäss validiert und anschliessen auf Befehl des Nutzers gespeichert. 
 Zu jedem Kontakt können folgende Informationen gespeichert werden:
@@ -34,7 +34,11 @@ Voraussetzungen:
 
 Starten des Programms:
 ```text
-python main.py  oder  python DSS_COntact_Manager.py
+python main.py
+```
+oder
+```text
+python DSS_COntact_Manager.py
 ```
 ---
 ## 🏛️ Die Architektur
